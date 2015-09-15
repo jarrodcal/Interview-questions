@@ -7,6 +7,11 @@
 
 //gcc -lm
 
+char *long2ip(long result)
+{
+    
+}
+
 long ip2long(char *address)
 {
     long result = 0;
